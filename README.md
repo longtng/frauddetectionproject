@@ -1,5 +1,5 @@
 # frauddetectionproject
-A Consideration Point of  Fraud Detection in Bank Loans
+A Consideration Point of  Fraud Detection in Bank Loans - Aug 2018
 
 This project used the famous "german_credit.csv" dataset and then applied on it various current classification machine learning models such as Logistic Regression, k Nearest Neighbor,  Random Forest, Support Vector Machine and Xgboost Tree in order to detect the fraud cases. 
 
